@@ -1,8 +1,4 @@
-
-## Deploying MERN Stack Project on Hostinger VPS
-
-
-
+## Deploying MERN Stack Project on VPS
 
 - Preparing the VPS Environment
 - Setting Up the MongoDB Database
@@ -10,9 +6,8 @@
 - Deploying the React Frontends
 - Configuring Nginx as a Reverse Proxy
 - Setting Up SSL Certificates
+  
 ### 1. Preparing the VPS Environment
-
-#### Get you VPS Hosting here : [Hostinger VPS](https://greatstack.dev/go/hostinger-vps)
 
 Log in to Your VPS in Terminal 
 
@@ -45,7 +40,7 @@ Install Git
 
 ###  2. Setting Up the MongoDB Database
 
-If you want to setup MongoDB on VPS Follow this Guide: [click here](https://github.com/GreatStackDev/notes/blob/main/MongoDB_Setup_on_VPS.md)
+If you want to setup MongoDB on VPS Follow this Guide: [click here](https://github.com/Royalkarang/vps_deploy/blob/main/MongoDB_Setup_on_VPS.md)
 
 ### 3. Deploying the Express and Node.js Backend
 
@@ -268,4 +263,4 @@ certbot renew --dry-run
 
 If you still need help in deployment:
 
-Contact us on email : greatstackdev@gmail.com
+Contact us on email : Royalkarang@gmail.com
